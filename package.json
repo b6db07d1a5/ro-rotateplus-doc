@@ -1,0 +1,15 @@
+{
+  "name": "ro-rotateplus-doc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/b6db07d1a5/ro-rotateplus-doc.git",
+  "author": "Ananass",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
